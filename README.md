@@ -5,6 +5,7 @@ Welcome to the **FYP-Medical Image Segmentation using U-Net++ Architecture** rep
 ## About
 
 This repository contains the code and resources for our final year project (FYP) focusing on advanced medical image segmentation. We explore the potential of the U-Net++ architecture to achieve precise and efficient segmentation of complex medical images.
+This repository contains the code for an image segmentation model based on **UNet++**: A Nested U-Net Architecture for Medical Image Segmentation implemented in PyTorch. The architecture's details can be found in the [original UNet++ paper](https://arxiv.org/abs/1807.10165).
 
 ## Key Features
 
