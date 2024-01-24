@@ -28,6 +28,7 @@ conda activate <env_name>
 2. Install PyTorch.
 ```sh
 conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
 3. Install pip packages.
 ```sh
